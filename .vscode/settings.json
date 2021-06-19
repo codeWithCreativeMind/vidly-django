@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\User\\.virtualenvs\\VIDLY-Y5ALkNzW\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\User\\.virtualenvs\\VIDLY-Y5ALkNzW\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true
 }
